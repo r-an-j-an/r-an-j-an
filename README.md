@@ -1,7 +1,7 @@
 
 ## Heyy <img data-target="animated-image.replacedImage" alt="Hi.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20" style="display: block; opacity: 1;">! Aditya Ranjan Here  !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9000&lines=import++%40r-an-j-an*)](https://git.io/typing-svg)
-
+<p><img src="https://readme-typing-svg.herokuapp.com?duration=9000&lines=import++%40r-an-j-an*"></p>
 
 
 
